@@ -14,9 +14,23 @@ def get_image_caption(img_input: np.ndarray):
 
     # processing uploaded image
     input_img = auto_processor(images=img, text="This is an image of ", return_tensors="pt")
+    '''
+    _input example
+
+    {
+    'pixel_values': tensor([[[[ ... ]]]]),       # image → normalized float32 pixel tensor
+    'input_ids': tensor([[ 133,  567,  98,  12]]),  # "the image of" → token IDs
+    'attention_mask': tensor([[1, 1, 1, 1]])
+    }
+    '''
 
     # generating caption for uploaded image
     output_img = model.generate(**input_img, max_length=100)
+    '''
+    _output example
+
+    tensor([[ 1012,  2234,  567,  98,  33,  2021,   12]])
+    '''
 
     # decoding output tokens into text
     decoded_caption = auto_processor.decode(output_img[0], skip_special_tokens=True)
