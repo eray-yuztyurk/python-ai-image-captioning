@@ -1,0 +1,77 @@
+https://en.wikipedia.org/static/images/icons/wikipedia.png: this is an image of a puzzle ball
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Schoenbrunn_philharmoniker_2012.jpg/250px-Schoenbrunn_philharmoniker_2012.jpg: this is an image of a crowd of people
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/L02_829e_Stephansdom.jpg/120px-L02_829e_Stephansdom.jpg: this is an image of a city street
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Merry_Christmas_%28189581451%29_%28cropped%29.jpg/120px-Merry_Christmas_%28189581451%29_%28cropped%29.jpg: this is an image of a city
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Karlskirche_Vienna%2C_September_2016.jpg/120px-Karlskirche_Vienna%2C_September_2016.jpg: this is an image of a church
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Palacio_Belvedere%2C_Viena%2C_Austria%2C_2020-02-01%2C_DD_93-95_HDR.jpg/250px-Palacio_Belvedere%2C_Viena%2C_Austria%2C_2020-02-01%2C_DD_93-95_HDR.jpg: this is an image of a palace
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Austria_relief_location_map.jpg/250px-Austria_relief_location_map.jpg: this is an image of the map of the region of china
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Europe_relief_laea_location_map.jpg/250px-Europe_relief_laea_location_map.jpg: this is an image of a topographic map of europe
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Barricade_bei_der_Universit%C3%A4t_am_26ten_Mai_1848_in_Wien.jpg/250px-Barricade_bei_der_Universit%C3%A4t_am_26ten_Mai_1848_in_Wien.jpg: this is an image of a painting of a crowd
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Karl_Marx_Hof.jpg/250px-Karl_Marx_Hof.jpg: this is an image of a building
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gerlach_justizpalastbrand_2.jpg/250px-Gerlach_justizpalastbrand_2.jpg: this is an image of a crowd of people
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bundesarchiv_Bild_146-1972-028-14%2C_Anschluss_%C3%96sterreich.jpg/250px-Bundesarchiv_Bild_146-1972-028-14%2C_Anschluss_%C3%96sterreich.jpg: this is an image of a crowd of people watching a car race
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rachel_whitereadwien_holocaust_mahnmal_wien_judenplatz.jpg/250px-Rachel_whitereadwien_holocaust_mahnmal_wien_judenplatz.jpg: this is an image of a monument in the center of the city
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vienna_Operations.jpg/250px-Vienna_Operations.jpg: this is an image of a military vehicle
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Wien_Besatzungszonen.png/250px-Wien_Besatzungszonen.png: this is an image of a map of the netherlands
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Graben%2C_szemben_a_Pestisoszlop._Fortepan_58901.jpg/250px-Graben%2C_szemben_a_Pestisoszlop._Fortepan_58901.jpg: this is an image of a city street
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Vienna_by_Sentinel-2.jpg/250px-Vienna_by_Sentinel-2.jpg: this is an image of the city of london
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Reliefkarte_Wien.png/250px-Reliefkarte_Wien.png: this is an image of a map of the city of vienna
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Street_sign_1._Graben_%28Vienna%29.jpg/250px-Street_sign_1._Graben_%28Vienna%29.jpg: this is an image of a sign that says 1 gr
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wien_Rathaus_hochaufl%C3%B6send.jpg/250px-Wien_Rathaus_hochaufl%C3%B6send.jpg: this is an image of a city square
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Michael_Ludwig_-_Veranstaltung_%E2%80%9E1._Tag_des_Wiener_Wohnbaus%E2%80%9C_%282%29.JPG/250px-Michael_Ludwig_-_Veranstaltung_%E2%80%9E1._Tag_des_Wiener_Wohnbaus%E2%80%9C_%282%29.JPG: this is an image of a man in a suit and tie
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Messe_Wien_01.jpg/250px-Messe_Wien_01.jpg: this is an image of a building
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Wien_-_Austria_Center.JPG/250px-Wien_-_Austria_Center.JPG: this is an image of a city
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Wien_-_Burgtheater.JPG/250px-Wien_-_Burgtheater.JPG: this is an image of a city
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vienna_-_Johann_Strauss_Monument_in_Stadt_Park_-_4572.jpg/250px-Vienna_-_Johann_Strauss_Monument_in_Stadt_Park_-_4572.jpg: this is an image of a statue
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Wien_-_Mozartdenkmal_%281%29.JPG/250px-Wien_-_Mozartdenkmal_%281%29.JPG: this is an image of a statue in a park
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Vienna_2007-04-16_Stadthalle_Georg_Danzer_und_Freunde_%28A3%29.jpg/250px-Vienna_2007-04-16_Stadthalle_Georg_Danzer_und_Freunde_%28A3%29.jpg: this is an image of a band performing
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Burg_Kino_Vienna.jpg/250px-Burg_Kino_Vienna.jpg: this is an image of a movie theater
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sigmund-Freud-Denkmal%2C_MedUni_Wien.jpg/250px-Sigmund-Freud-Denkmal%2C_MedUni_Wien.jpg: this is an image of a sculpture
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Imperial_Crown_Orb_and_Sceptre_of_Austria_%28Imperial_Treasury%29.jpg/250px-Imperial_Crown_Orb_and_Sceptre_of_Austria_%28Imperial_Treasury%29.jpg: this is an image of a display of a crown
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Vienna_-_View_of_Maria_Theresien-Platz_and_the_Kunsthistorisches_Museum_-_6291.jpg/250px-Vienna_-_View_of_Maria_Theresien-Platz_and_the_Kunsthistorisches_Museum_-_6291.jpg: this is an image of a city
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Museumsquartier_courtyard.jpg/250px-Museumsquartier_courtyard.jpg: this is an image of a city square
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg/250px-The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg: this is an image of a painting of a woman
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Arsenal_Heeresgeschichtliches_Museum-DSC_7920w.jpg/250px-Arsenal_Heeresgeschichtliches_Museum-DSC_7920w.jpg: this is an image of a building
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Otto_Wagner_Pavillon_-_Karlsplatz.jpg/250px-Otto_Wagner_Pavillon_-_Karlsplatz.jpg: this is an image of a city square
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Gasometer_wien.jpg/250px-Gasometer_wien.jpg: this is an image of a city
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wien_-_Ruprechtskirche.JPG/250px-Wien_-_Ruprechtskirche.JPG: this is an image of a town square
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Viele_Menschen_mit_Regenbogenfahnen_bei_der_Vienna_Pride_2021_%2851263075454%29.jpg/250px-Viele_Menschen_mit_Regenbogenfahnen_bei_der_Vienna_Pride_2021_%2851263075454%29.jpg: this is an image of a crowd of people
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Wien_12_GRG_12_Rosasgasse_b.jpg/250px-Wien_12_GRG_12_Rosasgasse_b.jpg: this is an image of a building
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/University_Vienna_Oct._2006_002.jpg/250px-University_Vienna_Oct._2006_002.jpg: this is an image of a college
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Friedrich_von_Schiller.JPG/250px-Friedrich_von_Schiller.JPG: this is an image of a city square
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hauptb%C3%BCcherei_Wien.jpg/250px-Hauptb%C3%BCcherei_Wien.jpg: this is an image of a city street
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Alsergrund_%28Wien%29_-_AKH%2C_Haupteingang.JPG/250px-Alsergrund_%28Wien%29_-_AKH%2C_Haupteingang.JPG: this is an image of a city
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Floridsdorf_%28Wien%29_-_Karl-Seitz-Hof_%282%29.JPG/250px-Floridsdorf_%28Wien%29_-_Karl-Seitz-Hof_%282%29.JPG: this is an image of a building
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wien_01_Burggarten_j.jpg/250px-Wien_01_Burggarten_j.jpg: this is an image of a park
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Liliputbahn_autune.JPG/250px-Liliputbahn_autune.JPG: this is an image of a train going through a park
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Gefechtsturm_Augarten_Sept_2020_14.jpg/250px-Gefechtsturm_Augarten_Sept_2020_14.jpg: this is an image of a city
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Donaupark_%26_Donauturm_Vienna_2024.jpg/250px-Donaupark_%26_Donauturm_Vienna_2024.jpg: this is an image of a city with a tower
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wien_22_Lobau_a.jpg/250px-Wien_22_Lobau_a.jpg: this is an image of a path through the woods
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Zentralfriedhof_Ludwig_van_Beethoven.JPG/250px-Zentralfriedhof_Ludwig_van_Beethoven.JPG: this is an image of a cemetery
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Vienna_20021024_%28cropped%29.JPG/250px-Vienna_20021024_%28cropped%29.JPG: this is an image of the city of paris
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Karte_Donaudurchstich.jpg/250px-Karte_Donaudurchstich.jpg: this is an image of a map of the city of london
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wien_-_Neue_Donau.JPG/500px-Wien_-_Neue_Donau.JPG: this is an image of a city with a river
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alte_Donau_Wien.jpg/500px-Alte_Donau_Wien.jpg: this is an image of a river
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schwedenbr%C3%BCcke_Donaukanal_Wien_2012_04.jpg/500px-Schwedenbr%C3%BCcke_Donaukanal_Wien_2012_04.jpg: this is an image of a river in the city
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Wienflussportal_beim_Stadtpark.JPG/250px-Wienflussportal_beim_Stadtpark.JPG: this is an image of a city
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Vienna_allianz_stadion.jpg/250px-Vienna_allianz_stadion.jpg: this is an image of the soccer stadium in the city of graz
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ernst-happel-stadion_vienna.jpg/250px-Ernst-happel-stadion_vienna.jpg: this is an image of the national stadium in brasil
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Vienna_City_Marathon_2015_-_Reichsbr%C3%BCcke_%283%29.JPG/250px-Vienna_City_Marathon_2015_-_Reichsbr%C3%BCcke_%283%29.JPG: this is an image of a group of people running
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Wiener-Schnitzel02.jpg/250px-Wiener-Schnitzel02.jpg: this is an image of a table setting
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wien_-_Sachertorte.jpg/250px-Wien_-_Sachertorte.jpg: this is an image of a table setting
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ottakringer_Helles_in_a_hotel_room.jpg/250px-Ottakringer_Helles_in_a_hotel_room.jpg: this is an image of a drink and a glass
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Palais_Lieben-Auspitz_Vienna.jpg/250px-Palais_Lieben-Auspitz_Vienna.jpg: this is an image of a city street
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wien_Heurigen-Lokal_2014_1.jpg/250px-Wien_Heurigen-Lokal_2014_1.jpg: this is an image of a restaurant
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/U-bahn-wien.jpg/250px-U-bahn-wien.jpg: this is an image of a blue and white sign
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Donaustadtbr%C3%BCcke_rigardate_de_la_stacio_Donaumarina.jpg/500px-Donaustadtbr%C3%BCcke_rigardate_de_la_stacio_Donaumarina.jpg: this is an image of a train on a bridge
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/U-Bahn%2C_Linie_U4%2C_Sch%C3%B6nbrunn_%2847951150056%29.jpg/500px-U-Bahn%2C_Linie_U4%2C_Sch%C3%B6nbrunn_%2847951150056%29.jpg: this is an image of a train station
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wien_U1.12_Nestroyplatz_AG_b.jpg/500px-Wien_U1.12_Nestroyplatz_AG_b.jpg: this is an image of a bus stop
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/U2_Krieau_AG_ost_innen_01.jpg/500px-U2_Krieau_AG_ost_innen_01.jpg: this is an image of a train station
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/57A_Ansch%C3%BCtzgasse.jpg/250px-57A_Ansch%C3%BCtzgasse.jpg: this is an image of a city street
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/62_Wolkersbergenstra%C3%9Fe.jpg/250px-62_Wolkersbergenstra%C3%9Fe.jpg: this is an image of a train
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Wien_Hbf_2023_07.jpg/250px-Wien_Hbf_2023_07.jpg: this is an image of a city
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Citybike_Vienna%2C_Sch%C3%B6nbrunner_Br%C3%BCcke.jpg/250px-Citybike_Vienna%2C_Sch%C3%B6nbrunner_Br%C3%BCcke.jpg: this is an image of a group of people waiting for a bus
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2011-06-14_10-23-56_Austria_Nieder%C3%B6sterreich_Fischamend_Markt.jpg/250px-2011-06-14_10-23-56_Austria_Nieder%C3%B6sterreich_Fischamend_Markt.jpg: this is an image of an airport
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Vereinte_Nationen_in_Wien.jpg/250px-Vereinte_Nationen_in_Wien.jpg: this is an image of the university of birmingham
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wien_-_OPEC-Zentrale_%28a%29.JPG/250px-Wien_-_OPEC-Zentrale_%28a%29.JPG: this is an image of a street
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Vienna_districts_large_numbers.gif/250px-Vienna_districts_large_numbers.gif: this is an image of a map of london
