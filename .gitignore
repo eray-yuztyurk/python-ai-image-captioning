@@ -1,0 +1,36 @@
+# Python standard .gitignore
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.env
+.env*
+*.venv
+venv/
+ENV/
+env/
+.envrc
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*~
+outputs/
+example_images/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# macOS
+.DS_Store
+# VS Code
+.vscode/
