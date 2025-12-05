@@ -2,13 +2,6 @@
 
 This project provides a practical set of tools for generating captions for images using the BLIP model. You can caption images by uploading a single file, processing all images in a local folder, or scraping images from a webpage. The interface is simple and user-friendly, making it easy for anyone to use.
 
-## Screenshots
-
-![Single Image Captioning](<img width="2490" height="1218" alt="image" src="https://github.com/user-attachments/assets/f5897b32-4aca-439b-a9b8-cb371ff371e8" />)
-![Local Folder Captioning](<img width="2478" height="844" alt="image" src="https://github.com/user-attachments/assets/ec5b10fe-0d10-45f4-903f-8b6eb27c2824" />)
-![Webpage Scraping](<img width="2486" height="672" alt="image" src="https://github.com/user-attachments/assets/e65df0df-321d-442f-b3fe-6ff3c784a559" />)
-
-
 ## Features
 
 - **Single Image Upload:** Instantly get a caption for any image you upload via the web interface.
@@ -16,6 +9,15 @@ This project provides a practical set of tools for generating captions for image
 - **Webpage Scraping:** Find and caption all images from any webpage you provide.
 - **Easy Web Interface:** All tools use Gradio-based web UIs for convenience.
 - **Docker Support:** Run the whole project easily in a container.
+
+## Screenshots
+
+**Single Image Upload:**
+<img width="2490" height="1218" alt="image" src="https://github.com/user-attachments/assets/f5897b32-4aca-439b-a9b8-cb371ff371e8" />
+**Bulk Local Captioning:**
+<img width="2478" height="844" alt="image" src="https://github.com/user-attachments/assets/ec5b10fe-0d10-45f4-903f-8b6eb27c2824" />
+**Webpage Scraping:**
+<img width="2486" height="672" alt="image" src="https://github.com/user-attachments/assets/e65df0df-321d-442f-b3fe-6ff3c784a559" />
 
 ## Installation
 
