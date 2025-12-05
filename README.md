@@ -33,7 +33,7 @@ This project provides a practical set of tools for generating captions for image
 1. **Clone the repository:**
 	 ```bash
 	 git clone https://github.com/eray-yuztyurk/python-ai-image-captioning.git
-	 cd python-ai-image-captioning/python-ai-image-captioning-1
+	 cd python-ai-image-captioning
 	 ```
 
 2. **Make sure Python 3.10+ is installed.**
