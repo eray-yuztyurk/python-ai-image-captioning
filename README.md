@@ -19,7 +19,7 @@ This project provides a practical set of tools for generating captions for image
 -------
 **Bulk Local Captioning:**
 
-<img width="2478" height="844" alt="image" src="https://github.com/user-attachments/assets/ec5b10fe-0d10-45f4-903f-8b6eb27c2824" />
+<img width="2484" height="846" alt="image" src="https://github.com/user-attachments/assets/54a3c68a-6b6d-4959-b80e-ce04af137f50" />
 
 -------
 **Webpage Scraping:**
